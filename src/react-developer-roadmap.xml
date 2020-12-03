@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T06:54:39.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="9RUJihPLvtG1VtSxxzK7" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T07:00:10.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Umc5nxOTG7orJ3cEkBn6" version="13.10.4" type="github">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="Page-1">
     <mxGraphModel dx="1320" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2117,9 +2117,33 @@
             <mxGeometry x="840" y="1416.5" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Jk71H7aWwh76te9ty_j1-229" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-225" target="Jk71H7aWwh76te9ty_j1-227">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jk71H7aWwh76te9ty_j1-230" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-225" target="Jk71H7aWwh76te9ty_j1-228">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="testing-library/react" link="https://github.com/testing-library/react-testing-library" id="Jk71H7aWwh76te9ty_j1-225">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingLeft=0;" vertex="1" parent="1">
             <mxGeometry x="925" y="1137" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;{ &lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;render&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;screen &lt;/span&gt;} &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;@testing-library/react&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" link="https://github.com/testing-library/react-testing-library" id="Jk71H7aWwh76te9ty_j1-227">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingLeft=0;" vertex="1" parent="1">
+            <mxGeometry x="1090" y="980.5" width="450" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;test&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;renders learn react link&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;() =&amp;gt; {&lt;br&gt;  &lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;render&lt;/span&gt;(&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;App /&amp;gt;&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;  const &lt;/span&gt;linkElement = &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;screen&lt;/span&gt;.&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;getByText&lt;/span&gt;(&lt;span style=&quot;color: rgb(104 , 151 , 187)&quot;&gt;/learn react/i&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;expect&lt;/span&gt;(linkElement).&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;toBeInTheDocument&lt;/span&gt;()&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" link="https://github.com/testing-library/react-testing-library" id="Jk71H7aWwh76te9ty_j1-228">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingLeft=0;" vertex="1" parent="1">
+            <mxGeometry x="1105" y="1038.5" width="440" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
