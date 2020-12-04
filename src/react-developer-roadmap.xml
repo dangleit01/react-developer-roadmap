@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T01:05:06.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="g0Lxb-VlXE3LOeVF5h6j" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T01:28:05.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="D13CIkKPY-rYLS_M-b1-" version="13.10.4" type="github">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="Page-1">
-    <mxGraphModel dx="2399" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,13 +309,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="mBQxPjdgl6Urx6ugqli--218" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.033;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="15a4b3893f7299b4-66" target="mBQxPjdgl6Urx6ugqli--217">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-20" y="760" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="15a4b3893f7299b4-66" value="State Management" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="200" y="707.6666666666665" width="110" height="20" as="geometry" />
         </mxCell>
@@ -2074,14 +2067,36 @@
         <mxCell id="mBQxPjdgl6Urx6ugqli--198" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--197">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="2310" />
+              <mxPoint x="-30" y="2300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBQxPjdgl6Urx6ugqli--220" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--219">
+        <mxCell id="mBQxPjdgl6Urx6ugqli--224" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--223">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-180" y="2410" />
+              <mxPoint y="2340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--227" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--228">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="2540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="2340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--230" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--229">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="2330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--237" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="Jk71H7aWwh76te9ty_j1-206" target="mBQxPjdgl6Urx6ugqli--233">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2210,17 +2225,17 @@
             <mxGeometry x="-15" y="2570" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="mBQxPjdgl6Urx6ugqli--201" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--197" target="mBQxPjdgl6Urx6ugqli--199">
+        <mxCell id="mBQxPjdgl6Urx6ugqli--201" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--197" target="mBQxPjdgl6Urx6ugqli--199">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-385" y="2350" />
+              <mxPoint x="-370" y="2270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBQxPjdgl6Urx6ugqli--202" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--197" target="mBQxPjdgl6Urx6ugqli--200">
+        <mxCell id="mBQxPjdgl6Urx6ugqli--202" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--197" target="mBQxPjdgl6Urx6ugqli--200">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-310" y="2430" />
+              <mxPoint x="-370" y="2310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2231,18 +2246,18 @@
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;React&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;{ Component } &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;react&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--199">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" vertex="1" parent="1">
-            <mxGeometry x="-765" y="2360" width="340" height="40" as="geometry" />
+            <mxGeometry x="-770" y="2240" width="340" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export default class &lt;/span&gt;App &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;extends &lt;/span&gt;Component&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export default class &lt;/span&gt;BlogPost &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;extends &lt;/span&gt;React.Component&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--200">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" vertex="1" parent="1">
-            <mxGeometry x="-790" y="2415" width="430" height="60" as="geometry" />
+            <mxGeometry x="-843" y="2300" width="430" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="mBQxPjdgl6Urx6ugqli--213" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--203" target="mBQxPjdgl6Urx6ugqli--212">
+        <mxCell id="mBQxPjdgl6Urx6ugqli--213" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--203" target="mBQxPjdgl6Urx6ugqli--212">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-180" y="699" />
+              <mxPoint x="-190" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2278,33 +2293,91 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;// setter&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;localStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;setItem&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;myData&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;data)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--209">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;align=left;" vertex="1" parent="1">
-            <mxGeometry x="-510" y="535" width="300" height="50" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;" vertex="1" parent="1">
+            <mxGeometry x="-510" y="535" width="310" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;// getter&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;localStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;getItem&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;myData&#39;&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--210">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;align=left;" vertex="1" parent="1">
-            <mxGeometry x="-470" y="597" width="260" height="50" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;" vertex="1" parent="1">
+            <mxGeometry x="-470" y="597" width="270" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;// remove&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;localStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;removeItem&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;myData&#39;&lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--211">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;align=left;" vertex="1" parent="1">
-            <mxGeometry x="-490" y="657.67" width="280" height="50" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;" vertex="1" parent="1">
+            <mxGeometry x="-490" y="657.67" width="290" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;// remove all&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;localStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;clear&lt;/span&gt;()&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--212">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;align=left;" vertex="1" parent="1">
-            <mxGeometry x="-390" y="715" width="180" height="50" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;" vertex="1" parent="1">
+            <mxGeometry x="-400" y="722.5" width="190" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;state &lt;/span&gt;= &lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;state&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;setState&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--217">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;align=left;" vertex="1" parent="1">
-            <mxGeometry x="-370" y="815" width="120" height="90" as="geometry" />
+        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;stat&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt; = defaultState&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt ; color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;state&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;setState&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--217">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;" vertex="1" parent="1">
+            <mxGeometry x="-550" y="2600" width="190" height="90" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;render&lt;/span&gt;() {&lt;br&gt;  &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;return &lt;/span&gt;(&lt;br&gt;    &lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;div &lt;/span&gt;&lt;span style=&quot;color: rgb(186 , 186 , 186)&quot;&gt;className&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;=&#39;blog-post&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;gt;&lt;/span&gt;Blog Post&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;  &lt;/span&gt;)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;}&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--219">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=2;align=left;spacingLeft=10;spacingBottom=2;" vertex="1" parent="1">
-            <mxGeometry x="-740" y="2505" width="380" height="90" as="geometry" />
+            <mxGeometry x="-760" y="2375" width="380" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--226" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--223" target="mBQxPjdgl6Urx6ugqli--225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-350" y="2460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;Handle Event&lt;/font&gt;" id="mBQxPjdgl6Urx6ugqli--223">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" vertex="1" parent="1">
+            <mxGeometry x="-170" y="2400" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;handleFieldChange &lt;/span&gt;= (event&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;field) =&amp;gt; {&lt;br&gt;  &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;setState&lt;/span&gt;({ [field]: event.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;target&lt;/span&gt;.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;value &lt;/span&gt;})&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;br&gt;&lt;/span&gt;}&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--225">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=2;align=left;spacingLeft=10;spacingBottom=2;" vertex="1" parent="1">
+            <mxGeometry x="-800" y="2500" width="410" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--232" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--228" target="mBQxPjdgl6Urx6ugqli--217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="2490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;State&lt;/font&gt;" id="mBQxPjdgl6Urx6ugqli--228">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;arcSize=0;" vertex="1" parent="1">
+            <mxGeometry x="-80" y="2415" width="40" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--231" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--229" target="mBQxPjdgl6Urx6ugqli--219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="2400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;Render&lt;/font&gt;" id="mBQxPjdgl6Urx6ugqli--229">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" vertex="1" parent="1">
+            <mxGeometry x="-247" y="2380" width="50" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mBQxPjdgl6Urx6ugqli--235" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="1" source="mBQxPjdgl6Urx6ugqli--233" target="mBQxPjdgl6Urx6ugqli--234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="2500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;props&lt;/font&gt;" id="mBQxPjdgl6Urx6ugqli--233">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" vertex="1" parent="1">
+            <mxGeometry x="-32" y="2450" width="40" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;pre style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;this&lt;/span&gt;.&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;props&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" id="mBQxPjdgl6Urx6ugqli--234">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=9;align=left;arcSize=0;" vertex="1" parent="1">
+            <mxGeometry x="-230" y="2558" width="100" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
