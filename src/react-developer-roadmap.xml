@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T09:12:25.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="R722zUeyxBKFNeOdqeB1" version="14.0.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-16T09:23:18.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Vk-ToYHe091iuF5ADFhP" version="14.0.3" type="github" pages="11">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
-    <mxGraphModel dx="342" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="554" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,9 +539,11 @@
         <mxCell id="15a4b3893f7299b4-158" value="Puppeteer" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="715" y="1487" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-159" value="Next.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="35" y="1648.8333333333333" width="65" height="15" as="geometry" />
-        </mxCell>
+        <UserObject label="Next.js" link="https://nextjs.org/docs" id="15a4b3893f7299b4-159">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
+            <mxGeometry x="35" y="1648.8333333333333" width="65" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="15a4b3893f7299b4-160" value="After.js" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="35" y="1668.8333333333333" width="65" height="15" as="geometry" />
         </mxCell>
