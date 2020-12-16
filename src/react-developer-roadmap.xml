@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:40:33.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="RW5ezbX7AQnOTNrgsL_M" version="14.0.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-16T09:12:25.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="R722zUeyxBKFNeOdqeB1" version="14.0.3" type="github" pages="11">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="342" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2514,7 +2514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(6)Routing" id="oMqFcp-yYO9YjWL4GP7y">
-    <mxGraphModel dx="1381" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="CBqTy9d7DDmj6SRxgOz5-0" />
         <mxCell id="CBqTy9d7DDmj6SRxgOz5-1" parent="CBqTy9d7DDmj6SRxgOz5-0" />
@@ -2852,12 +2852,18 @@
         <mxCell id="MoIUSvu3dIscd9cjLxBb-2" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="CBqTy9d7DDmj6SRxgOz5-1" source="MoIUSvu3dIscd9cjLxBb-1" target="MoIUSvu3dIscd9cjLxBb-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8d6HjfBpg2f9ZOIlBANI-2" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="CBqTy9d7DDmj6SRxgOz5-1" source="MoIUSvu3dIscd9cjLxBb-1" target="8d6HjfBpg2f9ZOIlBANI-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="react-router-dom" link="https://github.com/facebook/react" id="MoIUSvu3dIscd9cjLxBb-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=14;fillColor=#FFFF66;autosize=1;" parent="CBqTy9d7DDmj6SRxgOz5-1" vertex="1">
             <mxGeometry x="223.5" y="378" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="fKOh3cM6GX8SU_WTUykK-2" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="CBqTy9d7DDmj6SRxgOz5-1" source="fKOh3cM6GX8SU_WTUykK-0" target="fKOh3cM6GX8SU_WTUykK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8d6HjfBpg2f9ZOIlBANI-4" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="CBqTy9d7DDmj6SRxgOz5-1" source="fKOh3cM6GX8SU_WTUykK-0" target="8d6HjfBpg2f9ZOIlBANI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Declare" link="https://github.com/facebook/react" id="fKOh3cM6GX8SU_WTUykK-0">
@@ -2879,6 +2885,12 @@
         </mxCell>
         <mxCell id="fKOh3cM6GX8SU_WTUykK-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;Route &lt;/span&gt;&lt;span style=&quot;color: rgb(186 , 186 , 186)&quot;&gt;exact path&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;=&quot;/welcome&quot; &lt;/span&gt;&lt;span style=&quot;color: rgb(186 , 186 , 186)&quot;&gt;component&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;=&lt;/span&gt;{&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;Welcome&lt;/span&gt;} &lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" parent="CBqTy9d7DDmj6SRxgOz5-1" vertex="1">
           <mxGeometry x="1020" y="447.5" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8d6HjfBpg2f9ZOIlBANI-0" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;import &lt;/span&gt;{ &lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;Link &lt;/span&gt;} &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;from &lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;react-router-dom&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" vertex="1" parent="CBqTy9d7DDmj6SRxgOz5-1">
+          <mxGeometry x="-165" y="425" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8d6HjfBpg2f9ZOIlBANI-3" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;Link &lt;/span&gt;&lt;span style=&quot;color: rgb(186 , 186 , 186)&quot;&gt;to&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;=&quot;/&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;gt;&lt;/span&gt;Home&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;/Link&amp;gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" vertex="1" parent="CBqTy9d7DDmj6SRxgOz5-1">
+          <mxGeometry x="710" y="580" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
