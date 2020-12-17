@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T08:13:24.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="GeMZcAE6h3mslq5qr5jd" version="14.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-17T08:14:52.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="pIeqm1fd3GU2uqAfIKPA" version="14.0.3" type="github" pages="12">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="499" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2446,7 +2446,7 @@
         <mxCell id="LrsK6Wl9gR77JVsBf65B-15" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="WR3uPVKRPFMXe3mzccfZ-1" source="WR3uPVKRPFMXe3mzccfZ-379" target="LrsK6Wl9gR77JVsBf65B-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Local Storage&lt;/font&gt;" id="WR3uPVKRPFMXe3mzccfZ-379">
+        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Local Storage&lt;/font&gt;" link="https://www.robinwieruch.de/local-storage-react" id="WR3uPVKRPFMXe3mzccfZ-379">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;" parent="WR3uPVKRPFMXe3mzccfZ-1" vertex="1">
             <mxGeometry x="278.5" y="394" width="80" height="20" as="geometry" />
           </mxCell>
@@ -2518,6 +2518,9 @@
         <mxCell id="zZishauvzR4LQaBujI47-3" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="WR3uPVKRPFMXe3mzccfZ-1" source="zZishauvzR4LQaBujI47-0" target="zZishauvzR4LQaBujI47-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zZishauvzR4LQaBujI47-7" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="WR3uPVKRPFMXe3mzccfZ-1" source="zZishauvzR4LQaBujI47-0" target="zZishauvzR4LQaBujI47-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zZishauvzR4LQaBujI47-0" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;sessionStorage&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" vertex="1" parent="WR3uPVKRPFMXe3mzccfZ-1">
           <mxGeometry x="710" y="384" width="120" height="40" as="geometry" />
         </mxCell>
@@ -2529,6 +2532,15 @@
         </mxCell>
         <mxCell id="zZishauvzR4LQaBujI47-4" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;sessionStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;getItem&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;token&quot;&lt;/span&gt;)&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" vertex="1" parent="WR3uPVKRPFMXe3mzccfZ-1">
           <mxGeometry x="1170" y="354" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZishauvzR4LQaBujI47-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="WR3uPVKRPFMXe3mzccfZ-1" source="zZishauvzR4LQaBujI47-6" target="zZishauvzR4LQaBujI47-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZishauvzR4LQaBujI47-6" value="Storage.setItem(key: string,value: string): void" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="WR3uPVKRPFMXe3mzccfZ-1">
+          <mxGeometry x="900" y="414" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZishauvzR4LQaBujI47-8" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-weight: bold ; font-style: italic&quot;&gt;sessionStorage&lt;/span&gt;.&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;setItem&lt;/span&gt;(&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&quot;token&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;, &lt;/span&gt;token)&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" vertex="1" parent="WR3uPVKRPFMXe3mzccfZ-1">
+          <mxGeometry x="1180" y="410" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
