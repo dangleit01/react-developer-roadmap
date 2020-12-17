@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T08:14:52.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="pIeqm1fd3GU2uqAfIKPA" version="14.0.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-12-17T08:20:31.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="dvyPOSjkjDUhnQpan6NH" version="14.0.3" type="github" pages="12">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="499" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2446,7 +2446,7 @@
         <mxCell id="LrsK6Wl9gR77JVsBf65B-15" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="WR3uPVKRPFMXe3mzccfZ-1" source="WR3uPVKRPFMXe3mzccfZ-379" target="LrsK6Wl9gR77JVsBf65B-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Local Storage&lt;/font&gt;" link="https://www.robinwieruch.de/local-storage-react" id="WR3uPVKRPFMXe3mzccfZ-379">
+        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Local Storage&lt;/font&gt;" link="https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage" id="WR3uPVKRPFMXe3mzccfZ-379">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;" parent="WR3uPVKRPFMXe3mzccfZ-1" vertex="1">
             <mxGeometry x="278.5" y="394" width="80" height="20" as="geometry" />
           </mxCell>
@@ -2454,7 +2454,7 @@
         <mxCell id="zZishauvzR4LQaBujI47-1" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="WR3uPVKRPFMXe3mzccfZ-1" source="WR3uPVKRPFMXe3mzccfZ-380" target="zZishauvzR4LQaBujI47-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Session Storage&lt;/font&gt;" link="https://www.robinwieruch.de/local-storage-react" id="WR3uPVKRPFMXe3mzccfZ-380">
+        <UserObject label="&lt;font style=&quot;font-size: 10px&quot;&gt;Session Storage&lt;/font&gt;" link="https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage" id="WR3uPVKRPFMXe3mzccfZ-380">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;resizable=0;autosize=1;spacingLeft=0;arcSize=0;" parent="WR3uPVKRPFMXe3mzccfZ-1" vertex="1">
             <mxGeometry x="525" y="430" width="100" height="20" as="geometry" />
           </mxCell>
