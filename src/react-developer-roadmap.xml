@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T09:23:18.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Vk-ToYHe091iuF5ADFhP" version="14.0.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-12-17T06:02:05.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Dn8lhk478UVZ14w-EevB" version="14.0.3" type="github" pages="11">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
-    <mxGraphModel dx="554" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5248,7 +5248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(21)Debug" id="LramqBGe8_7vSMSw4z_Y">
-    <mxGraphModel dx="1381" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="dsWroWrIaGqzzMnCqbZJ-0" />
         <mxCell id="dsWroWrIaGqzzMnCqbZJ-1" parent="dsWroWrIaGqzzMnCqbZJ-0" />
@@ -5343,7 +5343,7 @@
         <mxCell id="dsWroWrIaGqzzMnCqbZJ-20" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" parent="dsWroWrIaGqzzMnCqbZJ-1" vertex="1">
           <mxGeometry x="463.5" y="1291" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="dsWroWrIaGqzzMnCqbZJ-21" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endFill=0;" parent="dsWroWrIaGqzzMnCqbZJ-1" source="dsWroWrIaGqzzMnCqbZJ-14" edge="1">
+        <mxCell id="dsWroWrIaGqzzMnCqbZJ-21" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=1;exitY=0.5;entryX=0.033;entryY=0.5;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dsWroWrIaGqzzMnCqbZJ-1" source="dsWroWrIaGqzzMnCqbZJ-14" edge="1" target="LDEDKqz-3ob4karLIhyI-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370.33333333333326" y="407" as="sourcePoint" />
             <mxPoint x="527.5" y="405" as="targetPoint" />
@@ -5607,6 +5607,11 @@
         <UserObject label="Click debug" link="https://github.com/facebook/react" id="TYwS9hHpswF-j76fjuwA-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=14;fillColor=#FFFF66;autosize=1;" parent="dsWroWrIaGqzzMnCqbZJ-1" vertex="1">
             <mxGeometry x="-260" y="410" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="React Devtools" link="https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation" id="LDEDKqz-3ob4karLIhyI-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=14;fillColor=#FFFF66;autosize=1;" vertex="1" parent="dsWroWrIaGqzzMnCqbZJ-1">
+            <mxGeometry x="500" y="398" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
