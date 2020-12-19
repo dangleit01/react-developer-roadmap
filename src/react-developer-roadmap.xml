@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T04:11:29.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="9U6PWo1Efj4KVn1blXjg" version="14.0.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-19T04:13:23.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="mzQXVOkO_fcXhX5wg7oZ" version="14.0.3" type="github" pages="13">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="1294" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4357,14 +4357,10 @@
         <mxCell id="JpOhfXjO7ludEeiW2xD4-32" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=#000000;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=14;align=center;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
           <mxGeometry x="440.5" y="1173" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="JpOhfXjO7ludEeiW2xD4-33" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endFill=0;" parent="JpOhfXjO7ludEeiW2xD4-1" target="JpOhfXjO7ludEeiW2xD4-19" edge="1">
+        <mxCell id="JpOhfXjO7ludEeiW2xD4-33" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endFill=0;" parent="JpOhfXjO7ludEeiW2xD4-1" target="JpOhfXjO7ludEeiW2xD4-19" edge="1" source="UL-k_Xn2zNropCMc_nmg-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="292" y="1140.5" as="sourcePoint" />
             <mxPoint x="378" y="1157" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="1140" />
-              <mxPoint x="410" y="1126" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JpOhfXjO7ludEeiW2xD4-39" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="JpOhfXjO7ludEeiW2xD4-1" target="JpOhfXjO7ludEeiW2xD4-40" edge="1">
@@ -4387,10 +4383,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="267.5" y="1302.5" as="sourcePoint" />
             <mxPoint x="455.16666666666674" y="1223.8333333333335" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="330" y="1302" />
-              <mxPoint x="420" y="1244" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uGgCN2XhoaVHoG006anx-0" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;entryX=1.009;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="JpOhfXjO7ludEeiW2xD4-1" source="uGgCN2XhoaVHoG006anx-1" target="yIO8AsFLefN4dGAW0gNr-12" edge="1">
@@ -4470,11 +4462,6 @@
         <mxCell id="JVbF9NgVn_DVjlDlYJqy-4" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.019;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="JpOhfXjO7ludEeiW2xD4-1" source="UL-k_Xn2zNropCMc_nmg-2" target="JVbF9NgVn_DVjlDlYJqy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font size=&quot;1&quot;&gt;State&lt;/font&gt;" id="UL-k_Xn2zNropCMc_nmg-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;arcSize=0;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
-            <mxGeometry x="250" y="1130" width="40" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="VrBquHsw4DpF_l7Nlm6o-0" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="JpOhfXjO7ludEeiW2xD4-1" source="VrBquHsw4DpF_l7Nlm6o-1" target="vXlQjADJ9igmd0DRXV4r-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -4486,7 +4473,7 @@
         </mxCell>
         <UserObject label="&lt;font size=&quot;1&quot;&gt;props&lt;/font&gt;" id="VrBquHsw4DpF_l7Nlm6o-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
-            <mxGeometry x="232" y="1293.5" width="40" height="20" as="geometry" />
+            <mxGeometry x="312" y="1268" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="YMF-Mg8B5tvPWZRYbezC-0" value="&lt;pre style=&quot;text-align: left; color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export default class &lt;/span&gt;App &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;extends &lt;/span&gt;Component&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export default class &lt;/span&gt;BlogPost &lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;extends &lt;/span&gt;React.Component&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=none;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
@@ -4656,6 +4643,11 @@
         <mxCell id="vUo3OU_xAr8DC637Zg4G-20" value="&lt;pre class=&quot;lang-js s-code-block hljs javascript&quot; style=&quot;margin: 0px 0px ; padding: 12px ; border: 0px ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;lucida console&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;dejavu sans mono&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , monospace , sans-serif ; font-stretch: inherit ; line-height: 1.30769231 ; font-size: 13px ; vertical-align: baseline ; box-sizing: inherit ; width: auto ; max-height: 600px ; overflow: auto ; border-top-left-radius: 5px ; border-top-right-radius: 5px ; border-bottom-right-radius: 5px ; border-bottom-left-radius: 5px ; word-wrap: normal ; text-align: left&quot;&gt;&lt;code style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-family: inherit ; font-style: inherit ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; box-sizing: inherit&quot;&gt;declare &lt;span class=&quot;hljs-built_in&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-family: inherit ; font-style: inherit ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; box-sizing: inherit&quot;&gt;global&lt;/span&gt; {&lt;br/&gt;  namespace JSX {&lt;br/&gt;    interface Element &lt;span class=&quot;hljs-keyword&quot; style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-family: inherit ; font-style: inherit ; font-stretch: inherit ; line-height: inherit ; vertical-align: baseline ; box-sizing: inherit&quot;&gt;extends&lt;/span&gt; React.ReactElement&amp;lt;any, any&amp;gt; { }&lt;br/&gt;  }&lt;br/&gt;}&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
           <mxGeometry x="705" y="1138" width="520" height="110" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;State&lt;/font&gt;" id="UL-k_Xn2zNropCMc_nmg-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;arcSize=0;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
+            <mxGeometry x="321" y="1120" width="40" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
