@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T03:51:00.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="mb-Dq5elRZ8mn8hy9rhI" version="14.0.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-19T03:51:15.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="FJ2_1w2dxAzuHS6EJA6C" version="14.0.3" type="github" pages="13">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="1294" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6052,7 +6052,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="(23)Template" id="Ff1yWB1rBa-zJZ22I_z0">
+  <diagram name="(23)JSX" id="Ff1yWB1rBa-zJZ22I_z0">
     <mxGraphModel dx="467" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="DIkzvuNsxNhLG6HxQmci-0" />
