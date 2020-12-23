@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T04:00:06.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="6CsHWlHSRVKaJfrAX-I8" version="14.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-23T08:31:10.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="bIZJgQ66ZEyxk_5_1rrj" version="14.0.1" type="github" pages="13">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
-    <mxGraphModel dx="1471" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4200,7 +4200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(19)Component" id="H6BZmDWvKesHBzJfrr6A">
-    <mxGraphModel dx="3769" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3095" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="JpOhfXjO7ludEeiW2xD4-0" />
         <mxCell id="JpOhfXjO7ludEeiW2xD4-1" parent="JpOhfXjO7ludEeiW2xD4-0" />
@@ -4555,9 +4555,15 @@
         <mxCell id="V0JbKQbvktnr0EEHDFxM-1" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;&amp;lt;Repository &lt;/span&gt;&lt;span style=&quot;color: rgb(186 , 186 , 186)&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;=&lt;/span&gt;{name: &#39;abc&#39;, description: &#39;&#39;}&lt;span style=&quot;color: rgb(232 , 191 , 106)&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
           <mxGeometry x="-1730" y="1257" width="400" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="" id="vUo3OU_xAr8DC637Zg4G-3">
+        <mxCell id="glZgfXRQjlm7laB261oR-1" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="JpOhfXjO7ludEeiW2xD4-1" source="vUo3OU_xAr8DC637Zg4G-3" target="glZgfXRQjlm7laB261oR-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="glZgfXRQjlm7laB261oR-3" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" edge="1" parent="JpOhfXjO7ludEeiW2xD4-1" source="vUo3OU_xAr8DC637Zg4G-3" target="glZgfXRQjlm7laB261oR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Higher-Order Components (HOC)" link="https://reactjs.org/docs/higher-order-components.html" id="vUo3OU_xAr8DC637Zg4G-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;autosize=1;resizable=0;spacingTop=0;" parent="JpOhfXjO7ludEeiW2xD4-1" vertex="1">
-            <mxGeometry x="543" y="1159" width="50" height="40" as="geometry" />
+            <mxGeometry x="493" y="1169" width="150" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="vUo3OU_xAr8DC637Zg4G-4" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;exitX=1;exitY=0.5;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="JpOhfXjO7ludEeiW2xD4-1" source="vUo3OU_xAr8DC637Zg4G-5" target="vUo3OU_xAr8DC637Zg4G-6" edge="1">
@@ -4668,6 +4674,12 @@
         </mxCell>
         <mxCell id="Qu_kaok3mbCrA_r7PmtV-0" value="&lt;pre style=&quot;color: rgb(169, 183, 198); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(204 , 120 , 50)&quot;&gt;export function &lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109)&quot;&gt;MainLayout&lt;/span&gt;(props: IMainLayoutProps): JSX.Element {&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;labelBackgroundColor=#ffffff;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
           <mxGeometry x="-840" y="710" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="glZgfXRQjlm7laB261oR-0" value="&lt;span style=&quot;font-size: 16px ; margin: 0px ; padding: 0px ; box-sizing: inherit ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif&quot;&gt;a higher-order component is a function that takes a component and returns a new component.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
+          <mxGeometry x="740" y="1120" width="780" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="glZgfXRQjlm7laB261oR-2" value="&lt;span style=&quot;font-size: 16px ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif&quot;&gt;Whereas a component transforms props into UI, a higher-order component transforms a component into another component.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
+          <mxGeometry x="740" y="1169" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -5014,7 +5026,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="(21)Debug" id="LramqBGe8_7vSMSw4z_Y">
-    <mxGraphModel dx="1471" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="dsWroWrIaGqzzMnCqbZJ-0" />
         <mxCell id="dsWroWrIaGqzzMnCqbZJ-1" parent="dsWroWrIaGqzzMnCqbZJ-0" />
