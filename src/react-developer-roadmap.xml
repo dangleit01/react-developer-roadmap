@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:48:36.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="IpPTyTx5zbboNNZocb9x" version="14.0.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:54:32.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="1iHbRarx0bGL7FdFOoqw" version="14.0.1" type="github" pages="13">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="1441" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4702,9 +4702,11 @@
         <mxCell id="glZgfXRQjlm7laB261oR-16" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;entryX=-0.001;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JpOhfXjO7ludEeiW2xD4-1" source="glZgfXRQjlm7laB261oR-9" target="glZgfXRQjlm7laB261oR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="glZgfXRQjlm7laB261oR-9" value="&lt;span style=&quot;color: rgb(41 , 41 , 41) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 15.75px ; letter-spacing: -0.06300000101327896px ; background-color: rgb(242 , 242 , 242)&quot;&gt;React.ComponentType&amp;lt;P&amp;gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
-          <mxGeometry x="750" y="1196" width="230" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;span style=&quot;color: rgb(41 , 41 , 41) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 15.75px ; letter-spacing: -0.06300000101327896px ; background-color: rgb(242 , 242 , 242)&quot;&gt;React.ComponentType&amp;lt;P&amp;gt;&lt;/span&gt;" link="https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb" id="glZgfXRQjlm7laB261oR-9">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
+            <mxGeometry x="750" y="1196" width="230" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="glZgfXRQjlm7laB261oR-11" value="&lt;span style=&quot;color: rgb(41 , 41 , 41) ; font-family: &amp;#34;charter&amp;#34; , &amp;#34;georgia&amp;#34; , &amp;#34;cambria&amp;#34; , &amp;#34;times new roman&amp;#34; , &amp;#34;times&amp;#34; , serif ; font-size: 21px ; letter-spacing: -0.06300000101327896px ; background-color: rgb(255 , 255 , 255)&quot;&gt;an alias for&amp;nbsp;&lt;/span&gt;&lt;code class=&quot;id lu lv lw lx b&quot; style=&quot;box-sizing: inherit ; background-color: rgb(242 , 242 , 242) ; padding: 2px 4px ; font-size: 15.75px ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; color: rgb(41 , 41 , 41) ; letter-spacing: -0.06300000101327896px&quot;&gt;React.FunctionComponent&amp;lt;P&amp;gt; | React.ClassComponent&amp;lt;P&amp;gt;&lt;/code&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;fontFamily=Verdana;" vertex="1" parent="JpOhfXjO7ludEeiW2xD4-1">
           <mxGeometry x="1060" y="1180" width="630" height="20" as="geometry" />
         </mxCell>
