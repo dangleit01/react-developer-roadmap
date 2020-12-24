@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T05:54:28.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="naJgQBlJjqNt8OxyCNBQ" version="14.0.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2020-12-24T06:01:49.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="b2rqsqE3KNN9dsUyQACN" version="14.0.1" type="github" pages="15">
   <diagram id="SA6uZ3qEqgbHXcnsX6U_" name="React">
     <mxGraphModel dx="1456" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -387,9 +387,11 @@
         <mxCell id="lypypwsDJA_UivIwfJW3-196" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Verdana;fontSize=8;" parent="1" source="15a4b3893f7299b4-88" target="15a4b3893f7299b4-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-88" value="Build Tools" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="247.5" y="587" width="80" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="Build Tools" link="https://reactjs.org/docs/code-splitting.html" id="15a4b3893f7299b4-88">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+            <mxGeometry x="247.5" y="587" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="15a4b3893f7299b4-91" value="gulp" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-67.5" y="665" width="65" height="15" as="geometry" />
         </mxCell>
